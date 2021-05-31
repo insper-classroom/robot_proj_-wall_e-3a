@@ -33,7 +33,7 @@ def processa(frame):
     cross(result_frame, centro, [255,0,0], 1, 17)
 
 
-    return centro, result_frame, result_tuples
+    return result_frame, result_tuples
 
 
 

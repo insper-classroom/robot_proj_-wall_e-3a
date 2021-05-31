@@ -1,4 +1,4 @@
-#! /usr/bin/env python3
+#! /usr/bin/env python
 # -*- coding:utf-8 -*-
 
 from __future__ import division, print_function
@@ -13,7 +13,7 @@ import os
 
 
 rospack = rospkg.RosPack()
-path = rospack.get_path('ros_projeto')
+path = rospack.get_path('Projeto-Robocom')
 scripts = os.path.join(path,  "scripts")
 
 proto = os.path.join(scripts,"MobileNetSSD_deploy.prototxt.txt")
