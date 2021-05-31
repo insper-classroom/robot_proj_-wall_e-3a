@@ -1,16 +1,14 @@
 # Base para Projeto 1 - Robótica 
 
-Nome do grupo: 
+Nome do grupo: Wall_e
 
 ____________
 
 Nome dos integrantes: 
 
-* pessoa 1
-* pessoa 2
-* pessoa 3
-* pessoa 4
-
+* Leonardo Malta de Abreu
+* Rafael Seicali Malcervelli
+* Guilherme Augusto Carvalho
 
 Visite sempre o enunciado abaixo para atualizacões: 
 
