@@ -2,7 +2,7 @@
 
 Nome do grupo: Wall_e
 
-_________________________________________________________________________________________________________-
+_________________________________________________________________________________________
 
 O projeto consiste no controle de um robô via ROS, utilizando o python como linguagem de comunicação com o robô, além do Gazebo.
 O robô deve seguir por uma pista com varios obstaculos, encontrar um creeper específico, com a cor e o ID desejados, conforme mostrado abaixo:
